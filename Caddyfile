@@ -1,0 +1,3 @@
+{$DOMAIN} {
+    reverse_proxy jarvis:8000
+}
